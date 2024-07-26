@@ -1,3 +1,5 @@
+// 소인수분해
+
 const input = require("fs")
   .readFileSync("/dev/stdin")
   .toString()

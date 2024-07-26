@@ -1,3 +1,5 @@
+// 소수 구하기
+
 const input = require("fs")
   .readFileSync("/dev/stdin")
   .toString()
